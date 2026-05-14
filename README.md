@@ -1,16 +1,22 @@
-## Hi there 👋
+## Abhi Somala
 
-<!--
-**abhisomala/abhisomala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student focused on AI/ML — building agents that perceive, reason, and act on real inputs.
 
-Here are some ideas to get you started:
+**Stack:** Python · PyTorch · scikit-learn · FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+
+| Repo | What it does |
+|------|-------------|
+| [OpenSight](https://github.com/abhisomala/OpenSight_GDGChallenge_2026) | Multi-agent voice assistant for visually impaired users. Shared memory layer keeps context across agents. GDG Solution Challenge 2026. |
+| [Capstone](https://github.com/abhisomala/capstone) | End-to-end ML pipeline — in progress. |
+| [Container Enterprise](https://github.com/abhisomala/Container_Enterprise) | Container orchestration project. |
+| [Space Invaders](https://github.com/abhisomala/Space-Invaders) | Browser game in HTML/JS. |
+| [Currency Converter](https://github.com/abhisomala/Currency-Converter) | Python CLI currency conversion tool. |
+| [Password Generator](https://github.com/abhisomala/Password-Generator) | Python password generator. |
+
+---
+
+**Building:** end-to-end ML inference pipelines with PyTorch and FastAPI.
